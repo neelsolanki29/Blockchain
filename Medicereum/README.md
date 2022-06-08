@@ -101,7 +101,7 @@ To be Updated Soon
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/ShivrajRana7/Medicereum-main.git
+   git clone https://github.com/neelsolanki29/Blockchain/tree/master/Medicereum
    ```
 2. To Be Updated Soon
 
