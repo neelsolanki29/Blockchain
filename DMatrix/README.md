@@ -167,9 +167,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/krishbhanushal8) - bhanushali123krish@gmail.com
+Your Name - Neel Solanki (neelsolanki2910@gmail.com)
 
-Project Link: [https://github.com/krish-bhanushali/DMatrix](https://github.com/krish-bhanushali/DMatrix)
+Project Link: [https://github.com/neelsolanki29/Blockchain/tree/master/DMatrix](https://github.com/neelsolanki29/Blockchain/tree/master/DMatrix)
 
 
 
