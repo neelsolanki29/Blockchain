@@ -1,0 +1,32 @@
+.bronze-tier{
+	background: #020305;
+	width: 100%;
+	min-height: 150vh;
+}
+.div-1{
+	margin-top: 60px;
+	text-align: center;
+}
+.div-1 hr{
+	padding: 5px;
+}
+.div-3{
+	margin: 100px;
+}
+.div-3 hr{
+	padding: 3px;
+	width: 5%;
+	color: #51E8EF;
+}
+.div-3 .row{
+	margin-top: 100px;
+	display: grid;
+	grid-template-columns: auto auto auto;
+    grid-row-gap: 100px;
+}/*
+.footer{
+	color: #ffffff;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}*/

@@ -1,0 +1,39 @@
+.heading{
+    margin-top: 60px;
+}
+.card-title{
+    text-align: center;
+    color: #ffffff;
+}
+.video{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.card{
+    background: #000000;
+    width: 55rem;
+    height: 25rem;
+}
+.card-bodyy img{
+    margin-left: 225px;
+}  
+.btn{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+.twitter{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.twitter .tweet{
+    width: 300px;
+ }
+ .footer{
+     display: flex;
+     justify-content: space-around;
+     align-items: center;
+ }

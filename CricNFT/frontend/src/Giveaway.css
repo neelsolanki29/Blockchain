@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@600&display=swap');
+
+.card{
+    margin-top: 100px;
+    /* border: 5px solid; */
+}
+.left{
+    position: absolute;
+    top: -4%;
+    left: 100px;
+}
+.right{
+    position: absolute;
+    top: 16%;
+    left: 55%;
+}
+.countdown-time{
+    display: flex;
+    flex: column;
+    justify-content: space-evenly;
+    margin-bottom: 60px;
+    border-radius: 5px;
+    padding: 20px 0;
+}
+section p, section span{
+    font-size: 2em;
+    font-family: 'Orbitron', sans-serif;
+    color : #f1f1f1;
+}
+section small{
+    font-family: 'Orbitron', sans-serif;
+    color: darkgray;
+}

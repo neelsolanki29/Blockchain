@@ -1,0 +1,35 @@
+{
+    "name": "Hitman 264",
+    "description": "India v Sri Lanka",
+    "image": "https://ipfs.io/ipfs/QmU6NBmGAZcfXERuwi6tygetFX4TX94zesbnWxNAXuGfyp?filename=0484cdf6c0721af556b0b5c651072258.jpeg",
+    "attributes": [
+        {
+            "trait_type": "Strength",
+            "value": 53
+        },
+        {
+            "trait_type": "Dexterity",
+            "value": 54
+        },
+        {
+            "trait_type": "Constitution",
+            "value": 2
+        },
+        {
+            "trait_type": "Intelligence",
+            "value": 96
+        },
+        {
+            "trait_type": "Wisdom",
+            "value": 94
+        },
+        {
+            "trait_type": "Charisma",
+            "value": 99
+        },
+        {
+            "trait_type": "Experience",
+            "value": 0
+        }
+    ]
+}

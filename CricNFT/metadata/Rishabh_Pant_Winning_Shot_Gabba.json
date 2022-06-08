@@ -1,0 +1,36 @@
+{
+    "name": "Rishabh Pant Gold Card",
+    "description": "Rishabh Pant Winning Shot at Gabba",
+    "image": "https://bafybeiffeayciiw3oc5anuegezfwpzup3kcrnc4lhodvxphgkvf7cdl5bq.ipfs.dweb.link/",
+    "image_poster_url": "https://bafybeiawgt4igy42lo53ed7upviaq7sjgceegnm4mys5skoetkrlhcksbi.ipfs.dweb.link/",
+    "attributes": [
+        {
+            "trait_type": "Strength",
+            "value": 53
+        },
+        {
+            "trait_type": "Dexterity",
+            "value": 54
+        },
+        {
+            "trait_type": "Constitution",
+            "value": 2
+        },
+        {
+            "trait_type": "Intelligence",
+            "value": 96
+        },
+        {
+            "trait_type": "Wisdom",
+            "value": 94
+        },
+        {
+            "trait_type": "Charisma",
+            "value": 99
+        },
+        {
+            "trait_type": "Experience",
+            "value": 0
+        }
+    ]
+}

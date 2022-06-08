@@ -1,0 +1,35 @@
+{
+    "name": "Classic Cover Drive",
+    "description": "Test Cricket",
+    "image": "https://ipfs.io/ipfs/QmaraUndyBcQ7UkctsD2S8bh5qM8c7977ugMXJKmMzHXMp?filename=EITKXNDXUAE9bou.jpeg",
+    "attributes": [
+        {
+            "trait_type": "Strength",
+            "value": 53
+        },
+        {
+            "trait_type": "Dexterity",
+            "value": 54
+        },
+        {
+            "trait_type": "Constitution",
+            "value": 2
+        },
+        {
+            "trait_type": "Intelligence",
+            "value": 96
+        },
+        {
+            "trait_type": "Wisdom",
+            "value": 94
+        },
+        {
+            "trait_type": "Charisma",
+            "value": 99
+        },
+        {
+            "trait_type": "Experience",
+            "value": 0
+        }
+    ]
+}

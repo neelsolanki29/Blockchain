@@ -1,0 +1,23 @@
+.rj{
+	background: #020305;
+	width: 100%;
+	min-height: 210vh;
+}
+.div-2{
+	margin: 50px 0;
+    color: #ccc;
+}
+.div-3{
+	margin: 100px;
+}
+.div-3 hr{
+	padding: 3px;
+	width: 5%;
+	color: #51E8EF;
+}
+.div-3 .row{
+	margin-top: 100px;
+	display: grid;
+	grid-template-columns: auto auto auto;
+    grid-row-gap: 100px;
+}

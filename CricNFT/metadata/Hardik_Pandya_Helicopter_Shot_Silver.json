@@ -1,0 +1,36 @@
+{
+    "name": "Hardik Pandya Silver Card",
+    "description": "Hardik Pandya Helicopter Shot Vs CSK",
+    "image": "https://bafybeig5uq2wl6qvfxswbuqj46mx7kb425ud6cdmmqnvio4gpcfthipwgm.ipfs.dweb.link/",
+    "image_poster_url": "https://bafybeigydwf4ht2h5feeqsoxogz4boxlkjzk2pyn2utcsvc6mwzascajc4.ipfs.dweb.link/",
+    "attributes": [
+        {
+            "trait_type": "Strength",
+            "value": 53
+        },
+        {
+            "trait_type": "Dexterity",
+            "value": 54
+        },
+        {
+            "trait_type": "Constitution",
+            "value": 2
+        },
+        {
+            "trait_type": "Intelligence",
+            "value": 96
+        },
+        {
+            "trait_type": "Wisdom",
+            "value": 94
+        },
+        {
+            "trait_type": "Charisma",
+            "value": 99
+        },
+        {
+            "trait_type": "Experience",
+            "value": 0
+        }
+    ]
+}
