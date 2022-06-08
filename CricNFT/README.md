@@ -142,9 +142,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/krishbhanushal8) - bhanushali123krish@gmail.com
+Your Name - Neel Solanki - neelsolanki2910@gmail.com
 
-Project Link: [https://github.com/ShivrajRana7/CricNFT](https://github.com/ShivrajRana7/CricNFT)
+Project Link: [https://github.com/neelsolanki29/Blockchain/tree/master/CricNFT](https://github.com/neelsolanki29/Blockchain/tree/master/CricNFT)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
