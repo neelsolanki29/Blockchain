@@ -135,7 +135,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Project Link: [https://github.com/ShivrajRana7/Medicereum-main](https://github.com/ShivrajRana7/Medicereum-main)
+Project Link: [https://github.com/neelsolanki29/Blockchain/tree/master/Medicereum](https://github.com/neelsolanki29/Blockchain/tree/master/Medicereum)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
